@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aigeephah.markoanastasov.com/sitemap.xml
